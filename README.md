@@ -5,7 +5,7 @@
 <b>Duration:</b> January 20th, 2025 to Febuary 20th, 2025.</br>
 <b>Mentor:</b> NEELA SANTHOSH</br>
 
-<b>Project: </b>Weather Applicatin <br/><br/>
+<b>Project:Real-Time Collaboraton Tool</b><br/><br/>
 <h3></h3>
 <p> </p>
 </br>
